@@ -1,0 +1,2 @@
+# digColl_stanBrakhage
+Stan Brakhage was one of the leading figures in American experimental cinema. During a career that began in the early 1950s and continued until his death in March 2003, Brakhage made about 400 films. University of Colorado Boulder Archives houses an extensive collection of Brakhage's personal papers, audio recordings, and films. This digital collection currently contains selected audio files and will grow to include material on other media. DOI: https://doi.org/10.25810/hmxf-g156
