@@ -29,3 +29,5 @@ Format of the item: audio/mp3
 Type terms assigned to the item. Type terms for this collection include: Sounds
 ### Language
 Language of the item: English
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Brackhage,Stan] https://archives.colorado.edu/repositories/2/archival_objects/291358.
