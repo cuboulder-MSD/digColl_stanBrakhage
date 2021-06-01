@@ -3,7 +3,7 @@ Stan Brakhage was one of the leading figures in American experimental cinema. Du
 Link to the digital collection [here](https://doi.org/10.25810/hmxf-g156).
 ## Metadata
 ### Identifier
-Name of the collection.
+Identifier for the item. Typically the file name. Example: narv_#01MichaelMcClure
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ###	TitleLink
