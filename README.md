@@ -20,7 +20,7 @@ Contributor to the work.
 ### Rights
 Rights statement for the item: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).
 
-Access Condition comes from [rightsstatment.org](http://rightsstatements.org/vocab/InC/1.0/.
+Access Condition comes from [rightsstatment.org](http://rightsstatements.org/vocab/InC/1.0/).
 ### Date
 Date the item was created and issued. Dates range within the 1970s.
 ### Format Medium
