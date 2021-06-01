@@ -6,65 +6,25 @@ Link to the digital collection [here](https://doi.org/10.25810/hmxf-g156).
 Identifier for the item. Typically the file name. Example: narv_#01MichaelMcClure
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
-###	TitleLink
-URI for the title. 
-### Creator
-Individual(s) or corporate entities that created the work. Common creators seen in the collection include:
-### CreatorLink
-URI for the Creator. 
-### Publisher
-Publisher of the work.
-### PublisherLink
-URI for the publisher.
-### Contributor
-Contributor to the work. 
-### ContributorLink
-URI for the contributor.
 ### Description
 Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
-### DescriptionLink
-URI for the description.
-### Date
-Date the item was created and issued.
-### DateLink
-URI for the Date.
-### Type
-Type terms assigned to the item. Type terms for this collection include:
-### TypeLink
-URI for the DCMI Type.
-### Format
-Format of the item, using the vocabulary of the Getty Art & Architectural Thesaurus [(AAT)]((http://vocab.getty.edu/aat). Format terms frequently seen in the collection include: 
-### FormatLink
-URI for the AAT Format.
-### Coverage
-Geographic location(s) relevant to the item. Some coverage terms used in the collection include: 
-### CoverageLink
-URI for the Geographic location(s)
 ### Subject
-Library of Congress Subject Headings (LCSH) relevant to the item.
-### SubjectLink
-URI for the LCSH.
-### IdentifierLink
-Linking information for the Identifier.
-### Identifier ARK
-ARK Identifier. [controlled, stable link]
-### Identifier LUNA
-LUNA-specific URI.
+Library of Congress Subject Headings (LCSH) relevant to the item. Common subject headings include: Filmmaking (Motion pictures); Artists; Motion pictures -- Production and direction -- United States; Experimental films
 ### Source
 Source from which the item was derived (if part of a greater whole).
-### SourceLink
-URI for the Source.
-### Language
-Language of the item.
-### LanguageLink
-URI for the Language, LOC link for the ISO 639-2 vocabulary.
-### Relation
-Related item, finding aid, material, or resource if the item is related to another item in the collection.
-### RelationLink
-URI or link to the Related item, finding aid, material, or resource.
+### Creator
+Individual(s) or corporate entities that created the work. Common creators seen in the collection include: Brakhage, Stan
+### Contributor
+Contributor to the work. 
 ### Rights
-Rights statement for the item.
+Rights statement for the item: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).
 
-Statement in this collection:
-### RightsLink
-URI for the Rights statement.
+Access Condition comes from [rightsstatment.org](http://rightsstatements.org/vocab/InC/1.0/.
+### Date
+Date the item was created and issued. Dates range within the 1970s.
+### Format Medium
+Format of the item: audio/mp3
+### Format Media Type
+Type terms assigned to the item. Type terms for this collection include: Sounds
+### Language
+Language of the item: English
